@@ -1,0 +1,2 @@
+Exista 4 perechi
+Rezolvarea are complexitate O(n) si a durat 0.000112 sec.

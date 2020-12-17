@@ -1,0 +1,33 @@
+IV. Informatică. Se citesc numerele naturale 
+nenule a, b, c, n, urmate de o secvenţă de n numere naturale
+distincte, notată cu s.
+
+
+
+(a) Să se scrie un program care afişează toate perechile 
+(x, y) cu proprietatea că x şi y sunt numere
+diferite din secvenţa s, care verifică 
+ecuaţia a(x^2) + b(y^2) = c.
+
+Exemplu: Dacă programul citeşte la intrare:
+    1 1 25 5 3 18 5 0 4
+, atunci afişează perechile
+    (3,4) (4,3) (0,5) (5,0)
+, nu neapărat ı̂n această ordine.
+
+
+
+(b) Dacă secvenţa s citită la intrare este formată din numere 
+ı̂n ordine crescătoare, să se scrie un program
+cât mai eficient care afişează numărul de perechi (x, y) cu 
+proprietatea de la punctul (a). 
+Să se calculeze complexitatea timp a soluţiei prezentate.
+
+Exemplu: Dacă programul citeşte la intrare:
+ 1 1 25 5 0 3 4 5 18, atunci afişează 4.
+
+
+
+Notă: Programele vor fi scrise ı̂ntr-unul dintre limbajele de programare studiate ı̂n liceu (Pascal,C,C++).
+Pentru fiecare soluţie se vor descrie informal detaliile algoritmului folosit şi ale implementării sub formă de pro-
+gram: semnificaţia variabilelor, a structurilor de date, a structurilor repetitive, a instrucţiunilor condiţionale.

@@ -1,0 +1,5 @@
+(0,5)
+(5,0)
+(3,4)
+(4,3)
+Rezolvarea are complexitate O(n) si a durat 4.5e-05 sec.
